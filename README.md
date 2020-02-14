@@ -10,14 +10,8 @@ https://blog.geographer.fr/eslint-guide
 "eslint.validate": [
   "javascript",
   "javascriptreact",
-  {
-    "language": "typescript",
-    "autoFix": true
-  },
-  {
-    "language": "typescriptreact",
-    "autoFix": true
-  }
+  "typescript",
+  "typescriptreact"
 ],
 ```
 
